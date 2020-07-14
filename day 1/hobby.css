@@ -1,0 +1,149 @@
+
+body {
+  background-color: #BFA8BE;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*-------------------
+--------Nav--------
+---------------------*/
+/* header {
+  background-color: aqua;
+  height: auto;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+
+} */
+
+
+nav {
+ margin-bottom: 2.5rem;
+ 
+}
+hr {
+  border: 2px solid #0b4223;
+}
+
+nav  ul{
+  padding: 0;
+  margin: 0;
+
+}
+
+
+nav ul a {
+  text-decoration: none;
+  font-size: 1.2rem;
+
+}
+
+a, 
+nav ul a:link {
+  
+  color: #2C4001;
+}
+
+a, 
+nav ul a:visited {
+  color: #2C4001;
+}
+
+nav ul a:hover {
+  color: #BF7E6F;
+  font-size: 1.6rem;
+}
+
+a:hover {
+  color: #BF7E6F;
+  font-size: 1.5rem;
+}
+
+
+nav ul li {
+  display: inline-block;
+  padding: 0.6rem;
+  background-color: #BF7E6F;
+  margin: 3px 0.9rem;
+
+
+
+
+
+}
+
+/*-------------------
+--------Header--------
+---------------------*/
+
+h1 {
+  color: #2C4001;
+  font-weight: 900;
+  margin-top: 0;
+}
+
+
+h2 {
+  color: #593B34;
+  font-weight: 600;
+
+}
+
+
+
+
+/*-------------------
+--------Para--------
+---------------------*/
+
+p{
+  line-height: 2rem;
+  text-align: justify;
+  font-size: 1.3rem;
+  color: #633a32 ;
+}
+.indy{
+  text-indent: 2rem;
+}
+
+
+
+/*-------------------
+--------li--------
+---------------------*/
+
+ul {
+  list-style-type: square;
+}
+
+li {
+  padding: 0.5rem;
+  color: #0b4223;
+  font-size: 1.1rem;
+}
+
+blockquote {
+  color: #0b4223;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+cite {
+   color: #7c3376;
+   font-size: 1.2rem;
+}
+
+
+
+/*-------------------
+--------image--------
+---------------------*/
+
+
+.center {
+  display: block;
+  width: 50%;
+border-radius: 40%; 
+width: 235px; 
+height: auto; 
+margin: 0 auto;
+}
